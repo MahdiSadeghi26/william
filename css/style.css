@@ -57,7 +57,7 @@ p {
   font-size: 14px;
   line-height: 21px;
 }
-.button.primary{
+.button.primary {
   background-color: #3ab82a;
   border: 1px solid cyan;
   border-radius: 3px;
@@ -66,8 +66,29 @@ p {
   font-weight: 500;
   padding: 10px 25px;
 }
-.button.primary.ghost{
+.button.primary.ghost {
   background-color: #3ab82a;
   color: #fff;
 }
-
+.text-con {
+  color: #fff;
+}
+.skill {
+  background-color: #4d2c91;
+  text-align: left;
+  padding: 15px;
+  margin-top: 30px;
+}
+.skill ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+.skill ul li {
+  border: 1px solid #2d2747;
+  border-radius: 2px;
+  display: inline-block;
+  font-size: 12px;
+  margin: 0 7px 7px 0;
+  padding: 7px;
+}
