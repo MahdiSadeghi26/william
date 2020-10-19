@@ -57,3 +57,17 @@ p {
   font-size: 14px;
   line-height: 21px;
 }
+.button.primary{
+  background-color: #3ab82a;
+  border: 1px solid cyan;
+  border-radius: 3px;
+  color: #fff;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  padding: 10px 25px;
+}
+.button.primary.ghost{
+  background-color: #3ab82a;
+  color: #fff;
+}
+
